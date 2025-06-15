@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mesutk99&" alt="mesutk99" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/mesutk99/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mesutk99/mesutk99/blob/output/github-contribution-grid-snake.gif)
